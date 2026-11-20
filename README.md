@@ -1,4 +1,4 @@
-# 🦹‍♂️ La Legión del Mal
+# 🦹‍♂️ La Legión del Mal - Desde Remoto
 
 ![Estatico](https://img.shields.io/badge/on--going_like-blue)
 
