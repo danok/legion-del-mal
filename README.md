@@ -1,5 +1,7 @@
 # 🦹‍♂️ La Legión del Mal
 
+![Estatico](https://img.shields.io/badge/on--going_like-blue)
+
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
 
